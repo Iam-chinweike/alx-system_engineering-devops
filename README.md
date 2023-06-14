@@ -4,4 +4,5 @@
 > > Here are some contents fo you
 > * shell basics
 > * shell permissions
-> * shell redirections and filters and more...
+> * shell redirections and filters 
+> * shell variables expansions
